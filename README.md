@@ -1,0 +1,2 @@
+# HELP-Transitioning-template-from-mailchimp
+Looking for an expert to help us with html code. We are switching over from mailchimp and want to use the same template that we have from mailchimp. However, we need to fix the code to make it more "user friendly" so that we can change the design without manually changing the code. Specifically, we want the modules bar to be linked to our template. As of now, our html is all unlinked code, therefore we can not interchange images easily (and other features like that).
